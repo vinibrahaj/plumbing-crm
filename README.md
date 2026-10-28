@@ -1,4 +1,4 @@
-# Plumb CRM
+# Plumbing Services CRM
 
 A small standalone plumbing CRM with a FastAPI API, a React interface, and SQLite storage. Inspired by the core workflow of a plumbing Odoo app; this version does not connect to Odoo.
 
